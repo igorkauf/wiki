@@ -33,6 +33,7 @@ Resources for doing analytics in the NEAR ecosystem:
 
 **Dashboards and Leaderboards**
 
+* [Datrics Analytics](https://datrics.notion.site/NEAR-Analytics-Dashboards-3dd8f391ed3a4989b674b5fbe9cf3e5f) - The list of NEAR dashboards produced by Datrics
 * [Explorer Stats Page](https://explorer.near.org/stats) - Dashboard with up to date top line NEAR chain key metrics
 * [Ecosystem Board](https://ecosystem-metrics.onrender.com) - Dashboard with top line NEAR ecosystem key metrics
 * [SputnikDAO Stats](https://stats.sputnik.fund) - Stats of SputnikDAO v1
